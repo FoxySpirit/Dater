@@ -1,0 +1,14 @@
+D:\Dater\Dater\Dater\bin\Debug\netcoreapp2.1\Dater.deps.json
+D:\Dater\Dater\Dater\bin\Debug\netcoreapp2.1\Dater.runtimeconfig.json
+D:\Dater\Dater\Dater\bin\Debug\netcoreapp2.1\Dater.runtimeconfig.dev.json
+D:\Dater\Dater\Dater\bin\Debug\netcoreapp2.1\Dater.dll
+D:\Dater\Dater\Dater\bin\Debug\netcoreapp2.1\Dater.pdb
+D:\Dater\Dater\Dater\obj\Debug\netcoreapp2.1\Dater.csprojAssemblyReference.cache
+D:\Dater\Dater\Dater\obj\Debug\netcoreapp2.1\Dater.csproj.CoreCompileInputs.cache
+D:\Dater\Dater\Dater\obj\Debug\netcoreapp2.1\Dater.RazorAssemblyInfo.cache
+D:\Dater\Dater\Dater\obj\Debug\netcoreapp2.1\Dater.RazorAssemblyInfo.cs
+D:\Dater\Dater\Dater\obj\Debug\netcoreapp2.1\Dater.AssemblyInfoInputs.cache
+D:\Dater\Dater\Dater\obj\Debug\netcoreapp2.1\Dater.AssemblyInfo.cs
+D:\Dater\Dater\Dater\obj\Debug\netcoreapp2.1\Dater.RazorTargetAssemblyInfo.cache
+D:\Dater\Dater\Dater\obj\Debug\netcoreapp2.1\Dater.dll
+D:\Dater\Dater\Dater\obj\Debug\netcoreapp2.1\Dater.pdb
