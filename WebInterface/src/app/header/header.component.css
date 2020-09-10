@@ -1,0 +1,21 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+.mat-toolbar{
+    background-color: #ffd000;
+}
+
+
+.header-buttons{
+    background-color: #ffd000;
+    border-radius: 5px;
+    border-color: #ffd00000;
+    box-shadow: none;
+}
+.header-buttons:hover{
+    background-color: #fcdf5f;
+}
+.header-buttons:focus{
+    outline: none;
+}
