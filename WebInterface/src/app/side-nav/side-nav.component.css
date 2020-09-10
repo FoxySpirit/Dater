@@ -1,0 +1,24 @@
+.example-container {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    border: none;
+  }
+
+  mat-drawer-content {
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .mat-drawer{
+    height: calc(100% - 64px);
+    width: 200px;
+  }
+
+  @media (max-width: 450px) {
+    .mat-drawer{
+      height: calc(100% - 64px);
+      width: 100%;
+    }
+  }

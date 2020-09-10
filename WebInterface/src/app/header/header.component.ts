@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
+import {MatDrawer} from '@angular/material/sidenav';
 
 @Component({
   selector: 'Header',
@@ -7,6 +8,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
+  @Input()
+  public sideNav!: MatDrawer;
+  public openMenu(): void{
+    this.sideNav?.toggle();
+  }
   constructor() { }
 
   ngOnInit(): void {
